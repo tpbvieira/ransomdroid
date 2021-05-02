@@ -1,0 +1,10 @@
+<resources>
+    <string name="empty"></string>
+    <string name="app_name">Ransomware Evaluation</string>
+    <string name="password">password</string>
+    <string name="decrypt">decrypt</string>
+    <string name="encrypted">encrypted</string>
+    <string name="error">error</string>
+    <string name="loading">loading...</string>
+    <string name="prompt_encrypted_files">Encrypted Files: </string>
+</resources>

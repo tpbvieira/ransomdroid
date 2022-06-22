@@ -1,5 +1,5 @@
 # Ransondroid
-## Ransonware detection through behavioral analysis for Android_
+## Ransonware detection through behavioral analysis for Android
 
 Ransondroid is an evaluation of [Eigensim](https://github.com/tpbvieira/eigensim) for ransomware detection on android devices. Eigensim is a framework composed by novel algorithms based on Model Order Selection (MOS) and Eigenvalue/Eigenvector similarity for behavioral anomaly detection. 
 
